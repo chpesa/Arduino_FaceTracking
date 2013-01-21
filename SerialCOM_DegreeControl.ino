@@ -31,6 +31,7 @@ void setup()
  delay(1000);
  pan_temp=pan;
  tilt_temp=tilt;
+
   
 }
 
